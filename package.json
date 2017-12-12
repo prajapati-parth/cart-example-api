@@ -1,0 +1,14 @@
+{
+  "name": "cart-example-api",
+  "version": "1.0.0",
+  "description": "Fake api to support cart-example project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
